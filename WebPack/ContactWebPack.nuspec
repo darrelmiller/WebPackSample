@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>ContactWebPack</id>
+    <version>1.0.3</version>    
+    <description>Types used by Contact Web API</description>
+    <authors>Tavis</authors>
+    <language>en-US</language>
+  </metadata>
+  <files>
+	<file src="bin\Debug\*.dll" target="lib" /> 
+  </files>
+</package>
